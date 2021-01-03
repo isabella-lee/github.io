@@ -5,9 +5,9 @@ title: About
 ---
 <br/>
 <br/>
-<h1>This is Mounty. </h1>
+<h1>This is Isabella. </h1>
 
-Some personal information below. 
+Some personal information below. 请替换掉爸爸的照片。换成Isabella自己的信息。
 
 <table border="0">
 	<tr>
