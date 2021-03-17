@@ -1,0 +1,20 @@
+---
+layout: blogdefault
+title: category_english
+---
+<br/>
+<h1>Do you speak English? It is helpful oversea.</h1>
+
+<u1>
+  {% for post in site.posts %}
+   {%if post.category=="English" %} 
+    <li>
+	  <h2><a href="{{ post.url }}">{{post.title}}</a></h2>
+	  <br/>
+
+	  <p>{{post.excerpt}}</p>
+	</li>
+	 {% endif %}
+	
+  {% endfor %}
+</u1>
